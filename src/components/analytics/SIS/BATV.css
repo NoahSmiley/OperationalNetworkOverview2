@@ -1,0 +1,16 @@
+.card_header {
+    display: flexbox;
+    font-size: 25px;
+    color: black;
+    font-weight: bolder;
+    width: 15vw;
+  
+  }
+  .card_title {
+    font-weight: bold;
+    font-size: 15px;
+    padding-top: 2%;
+    padding-left: 2%;
+    text-align: left;
+  }
+  
